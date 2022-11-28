@@ -1,4 +1,4 @@
-const num = [3,4];
+const num = [3,4,8];
 console.log(num);
 console.log(num[0]);
 console.log(num.length);
